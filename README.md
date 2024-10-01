@@ -16,13 +16,13 @@ To run these programs on your local machine:
 2. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/python-basics.git
+   git clone [https://github.com/yourusername/python-basics.git](https://github.com/unstopablesid/Python-programs.git)
    ```
 
 3. Navigate into the project directory:
 
    ```bash
-   cd python-basics
+   cd python-programs
    ```
 
 ## Concepts Covered
